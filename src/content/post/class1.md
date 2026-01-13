@@ -12,7 +12,7 @@ slug = "class1"
 
 ## Schedule
 
-By **8:29 PM** tonight (**13 January 2026**) everyone who wants to be in the class should submit the **Starting the Course Survey** in Canvas: [[Canvas Link](https://canvas.its.virginia.edu/courses/161890/quizzes/161089)] (this will be available immediately after class today)
+By **8:29 PM** tonight (**13 January 2026**) everyone who wants to be in the class should submit the **Starting the Course Survey** in Canvas: [[Canvas Link](https://canvas.its.virginia.edu/courses/161890/quizzes/161089)].
 
 We will make team assignments for your table teams and on-line discussion groups based on the survey submissions, and aim to have these ready by tomorrow.
 
