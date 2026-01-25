@@ -25,7 +25,7 @@ I believe each team has at least a few members with enough experience using git 
 
 - Replace everything after the header with your content.  
 
-- If you have images or other content to incorporate in your page, store these in the `src/content/static/images` or `src/content/static/docs`. If you have more than a few images, you should create a new subdirectory for your content there. Using images and other resources to make your post interesting and visually compelling is
+- If you have images or other content to incorporate in your page, store these in the `./src/content/static/images` or `./src/content/static/docs`. If you have more than a few images, you should create a new subdirectory for your content there. Using images and other resources to make your post interesting and visually compelling is
   highly encouraged!
    
 - Write the blog page using Markdown.  Markdown is a simple markup

@@ -20,10 +20,10 @@ author = "Team 9"
 
 On December 29, 2025, China launched Justice Mission 2025, a series of military drills in the South China Sea surrounding Taiwan. These drills represent an escalation in tensions between China and Taiwan and its allies, Japan, South Korea, and the United States.    
 
-<img src="/images/table9class1/PLA-Justice-Mission-2025-Exercise-Zones-as-of-December-31-2025.webp" width=80% alt=""></img>  
+<center><img src="/images/table9class1/PLA-Justice-Mission-2025-Exercise-Zones-as-of-December-31-2025.webp" width=80% alt=""></img>  
 
 *Figure 1: Map of the operation on Dec 29, 2025. Source: [AEI](https://www.aei.org/articles/china-taiwan-update-special-edition-december-31-2025/)*
-
+</center>
 
 With dozens of naval vessels and aircraft, China conducted live fire, search-and-destroy operations, designating seven operational zones, disrupting Taiwanese air travel. Of the operation, Chinese officials stated they were necessary to “safeguard China’s sovereignty and national unity.”
 
@@ -31,10 +31,11 @@ Since the Chinese Civil War in 1949, mainland China, led by the CCP, has claimed
 
 These operations are also in response to international political updates. The US announced an arms deal earlier in the month. The deal, worth $11 billion,  grants Taiwan access to high-mobility artillery rocket systems, HIMARS. Also, Japan’s new prime minister had announced in November that aggression towards Taiwan would be seen as a threat against Japan.  
   
-
+<center>
 <img src="/src/content/static/images/table9class1/size0-full.jpg" width=80% alt=""></img>  
 
 *Figure 2: HIMARS. Source: [U.S. Army Public Affairs](https://www.army.mil/article/262457/army_awards_431_million_contract_for_himars)*
+</center>
 
 In January 2026, the U.S. announced a trade deal with Taiwan. Taiwan committed to invest $250 billion in semiconductor and technology manufacturing in the U.S. The deal will bring 40% of Taiwan’s supply chain and chip-making to the U.S., lowering American reliance on Taiwan, especially in the case of Chinese annexation. This deal may incentivise China to control the island before more assets are relocated while concurrently weakening Taiwan’s leverage in security negotiations with the U.S.
 
@@ -60,9 +61,11 @@ The focus on Taiwan led to questions about the true reason why TSMC is so far ah
 - Dario Amodei (CEO and co-founder of Anthropic), [_Machines of Loving Grace: How AI Could Transform the World for the Better_](https://www.darioamodei.com/essay/machines-of-loving-grace#basic-assumptions-and-framework). October 2024
 [[PDF Link](/docs/amodei2024.pdf)]
 
+<center>
 <img src="/images/table9class1/download.jpg" width=80% ></img>  
 
 *Figure 3: Dario Amodei, author of Machines of Loving Grace. Source: [Time](https://time.com/collections/time100-ai-2025/7305835/dario-amodei-ai/)*   
+</center>
 
 In class, one of the first things we talked about was how important it is to think about who the author is and what their goals might be when reading an essay like _Machines of Loving Grace_. 
 
@@ -76,9 +79,11 @@ One area where Amodei’s optimism is most visible is biology and health. He arg
 
 A similar tension appears in his discussion of work and meaning. Amodei argues that even as AI outperforms humans in most tasks, people will continue to find fulfillment in the remaining areas where human contribution matters, suggesting that meaningful work can persist even if AI performs the majority of labor. While this view is optimistic, class discussion raised concerns about whether society can adapt quickly enough to prevent large-scale job loss, especially if economic support systems such as universal basic income lag behind technological change.    
 
+<center>
 <img src="/images/table9class1/test-scores-ai-capabilities-relative-human-performance.png" width=80% ></img>    
 
 *Figure 4: AI performance in various tasks relative to humans. Source: [Our World in Data](https://ourworldindata.org/grapher/test-scores-ai-capabilities-relative-human-performance)* 
+</center>
 
 While Amodei presents a hopeful and technically grounded vision of powerful AI, our class discussions revealed how dependent this future is on political decisions, economic systems, and global power structures. We discussed how AI, and technology in general, is not inherently dangerous. The danger comes from reckless use, which should be regulated by the government. This is where the voice of the public can be heard.  
 
