@@ -24,7 +24,7 @@ Some additional readings (that are not expected for everyone, but are optional, 
 
 - [Chapter 3: _Classification_](https://fairmlbook.org/classification.html) from Solon Barocas, Moritz Hardt, Arvind Narayanan. [Fairness and machine learning: Limitations and Opportunities](https://fairmlbook.org/) ("FairML book"). MIT Press, 2023. (The full book is openly available at [https://fairmlbook.org)](https://fairmlbook.org/)].) [[Chapter Link](https://fairmlbook.org/classification.html)]
 
-Readings for Tuesday, 12 February:
+Readings for Tuesday, 10 February:
 
 - Cynthia Rudin. [_Stop explaining black box machine learning
 models for high stakes decisions and use
