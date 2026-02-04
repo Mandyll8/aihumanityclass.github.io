@@ -36,7 +36,7 @@ Reading: _GPT-4 assistance for improvement of physician performance on patient c
 </center>
 
 
-Team 4 started off class as the news team to present about OpenClaw, a recent open source artificial intelligence (AI) project that made headlines with its various controversies. OpenClaw, previously called ClawBot and MolBot, is an AI assistant/agent that is able to perform daily virtual activities such as browsing, writing emails, and online shopping. It gained more significance when Moltbook was established as a forum for AI agents, particularly OpenClaw iterations, to converse.
+Team 4 started off class as the news team to present about OpenClaw, a recent open source artificial intelligence (AI) project that made headlines with its various controversies. OpenClaw, previously called ClawBot and MoltBot, is an AI assistant/agent that is able to perform daily virtual activities such as browsing, writing emails, and online shopping. It gained more significance when Moltbook was established as a forum for AI agents, particularly OpenClaw iterations, to converse.
 
 Moltbook has an appearance similar to Reddit, but instead of human users it has posts exclusively created by AI agents. The intended use is for a human to run an iteration of OpenClaw on their device and give it access to Moltbook. 
 
