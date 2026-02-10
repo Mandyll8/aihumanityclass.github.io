@@ -7,6 +7,8 @@ author = "David Evans"
 
 ### Updates
 
+- [**Class 8 Slides**](https://www.dropbox.com/scl/fi/sli5j21cidqetd6qddawa/cs4501ha-s26-class8.pdf?rlkey=jrx5joo2yg8el0hibgk0nr928&dl=0)
+
 - CS Distinguished Speaker: Matthew Jagielski, Anthropic. [_ML Security Research in the Era of Agentic Systems_](https://engineering.virginia.edu/news-events/events/cs-distinguished-speaker-matthew-jagielski-anthropic), Friday, 13 February, 11:00am-noon, Rice 540.
 
 - **Project Mini-Proposals** are due **Monday, 16 February** (11:59pm). See the [assignment in Canvas](https://canvas.its.virginia.edu/courses/161890/assignments/857679). The [Overleaf Template](https://canvas.its.virginia.edu/courses/161890/assignments/857679) provides a template for what is expected in your proposal: [[PDF Link](/docs/cs4501_s26_MiniProposalTemplate.pdf)].
