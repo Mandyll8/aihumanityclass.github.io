@@ -1,13 +1,23 @@
 +++
 date = "07 Feb 2026"
-draft = true
+draft = false
 title = "Class 7: AI Bias and Interpretability"
 author = "Team 1"
 +++
 
-**Blogging Team [1]**: Tristan Grubbs, Srikar Bangaru, Sarah Francis, Amanda Appiah-Yeboah, Matthew Janicki 
+**Blogging Team 1**: Tristan Grubbs, Srikar Bangaru, Sarah Francis, Amanda Appiah-Yeboah, Matthew Janicki 
 
 # News: NVIDIA and OpenAI Deal
+**Presented by Team 5:**
+
+## Articles
+
+- Down, A., & Milmo, D. (2026, February 5). What does the disappearance of a $100bn deal mean for the AI economy?. The Guardian. 
+[https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai?utm_source=chatgpt.com](https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai?utm_source=chatgpt.com)
+
+- Aubrey, K. (2026, January 5). Inside the nvidia rubin platform: Six new chips, one AI supercomputer. NVIDIA Technical Blog. [https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/](https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/)
+
+## Discussion
 
 <img src="/images/nvidia.png" width=60% alt=""></img>
 
@@ -17,12 +27,15 @@ Due to the current nature of the industry, talks of an “AI bubble” in the ma
 
 Besides the NVIDIA and OpenAI deal, other market leaders are moving forward with AI at the forefront of their future. Google is doubling its AI spending to 185 billion after stronger than expected earnings. Elon Musk’s SpaceX has bought xAI, creating a 1.25 trillion dollar company, which could be one of the largest IPOs ever in the near future. Both sides of the conversation claim these events support their view of the future of the AI industry, which goes to show the unpredictability of the industry’s future.
 
-## Sources:
-* https://www.theguardian.com/technology/2026/feb/05/disapperance-100bn-deal-ai-circular-economy-funding-nvidia-openai?utm_source=chatgpt.com
-* https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/
-
-
 # Lead: AI Bias and Intertretability
+**Presented by Team 9:**
+
+## Readings
+- Kyra Wilson and Aylin Caliskan. Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval. AAAI/ACM Conference on AI, Ethics, and Society (AIES2024). [https://ojs.aaai.org/index.php/AIES/article/view/31748/33915](https://ojs.aaai.org/index.php/AIES/article/view/31748/33915)
+
+- Chapter 3: Classification from Solon Barocas, Moritz Hardt, Arvind Narayanan. Fairness and machine learning: Limitations and Opportunities (“FairML book”). MIT Press, 2023. (The full book is openly available at https://fairmlbook.org)].) [https://fairmlbook.org/classification.html](https://fairmlbook.org/classification.html)
+
+## Discussion
 
 Team 9 continued discussions, highlighting the discrepancies that exist in hiring systems, which are only worsened with the deployment of AI. Kyra Wilson and Aylin Caliskan, a PhD candidate and an Assoc. Professor from the University of Washington, both work in LLM and NLP research. As part of their work, the research article that Team 9 presented focuses on hiring tools that leverage technologies such as LLMs and NLP. While AI screening-systems may be seemingly faster and more efficient, the authors investigated to see whether the efficiency comes at the cost of biases.
 
@@ -38,13 +51,13 @@ Furthermore, the concept of fairness from a statistical lens was also introduced
 
 Lastly, the class discussion ended on a broader look at several of the domains currently utilizing AI systems that are affected by AI bias. These domains include healthcare, criminal justice, finance, education, and employment. Overall, it was generally agreed upon that AI has tangible benefits for these domains, but also poses serious risks due to bias, and it is becoming increasingly important to consider bias and understand how it may be impacting our AI systems before mass implementing them.
 
-# Sources:
-* https://kyrawilson.github.io/me/about/
-* https://faculty.washington.edu/aylin/
-* https://doi.org/10.48550/arXiv.2507.08029
-* https://doi.org/10.5465/AMPROC.2025.15911symposium
-* https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/
-* https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
-* https://fairmlbook.org/classification.html 
-* https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
-* https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40
+# Additional Sources found by Team 9 for Dicussion:
+- [https://kyrawilson.github.io/me/about/](https://kyrawilson.github.io/me/about/)
+- [https://faculty.washington.edu/aylin/](https://faculty.washington.edu/aylin/)
+- [https://doi.org/10.48550/arXiv.2507.08029](https://doi.org/10.48550/arXiv.2507.08029)
+- [https://doi.org/10.5465/AMPROC.2025.15911symposium](https://doi.org/10.5465/AMPROC.2025.15911symposium)
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/)
+- [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) 
+- [https://fairmlbook.org/classification.html](https://fairmlbook.org/classification.html)
+- [https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report](https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report)
+- [https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40](https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40)
