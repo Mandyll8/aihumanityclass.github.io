@@ -36,6 +36,7 @@ Besides the NVIDIA and OpenAI deal, other market leaders are moving forward with
 - Chapter 3: Classification from Solon Barocas, Moritz Hardt, Arvind Narayanan. Fairness and machine learning: Limitations and Opportunities (“FairML book”). MIT Press, 2023. (The full book is openly available at https://fairmlbook.org)].) [https://fairmlbook.org/classification.html](https://fairmlbook.org/classification.html)
 
 ## Discussion
+<img src="/images/fairness.png" width=60% alt=""></img>
 
 Team 9 continued discussions, highlighting the discrepancies that exist in hiring systems, which are only worsened with the deployment of AI. Kyra Wilson and Aylin Caliskan, a PhD candidate and an Assoc. Professor from the University of Washington, both work in LLM and NLP research. As part of their work, the research article that Team 9 presented focuses on hiring tools that leverage technologies such as LLMs and NLP. While AI screening-systems may be seemingly faster and more efficient, the authors investigated to see whether the efficiency comes at the cost of biases.
 
@@ -50,6 +51,8 @@ Many of the discussions centered around the possibility of fairness and creating
 Furthermore, the concept of fairness from a statistical lens was also introduced. The group broke down statistical fairness in classification into three parts: independence, when groups have equal acceptance rates, separation, when groups face similar errors, and sufficiency, when predicted outcomes face the same probability across groups.  
 
 Lastly, the class discussion ended on a broader look at several of the domains currently utilizing AI systems that are affected by AI bias. These domains include healthcare, criminal justice, finance, education, and employment. Overall, it was generally agreed upon that AI has tangible benefits for these domains, but also poses serious risks due to bias, and it is becoming increasingly important to consider bias and understand how it may be impacting our AI systems before mass implementing them.
+
+<img src="/images/bias.png" width=60% alt=""></img>
 
 # Additional Sources found by Team 9 for Dicussion:
 - Wilson, K. (n.d.). About. [https://kyrawilson.github.io/me/about/](https://kyrawilson.github.io/me/about/)
