@@ -8,7 +8,7 @@ author = "Team 1"
 **Blogging Team 1**: Tristan Grubbs, Srikar Bangaru, Sarah Francis, Amanda Appiah-Yeboah, Matthew Janicki 
 
 # News: NVIDIA and OpenAI Deal
-**Presented by Team 5:**
+**Presented by Team 5: [Slides](https://docs.google.com/presentation/d/1iUzFexFYTxOdhoC3TIZbh1jgBCxOLOZ77IoRRidUr0g/edit?slide=id.g378a603d89a_0_520#slide=id.g378a603d89a_0_520)**
 
 ## Articles
 
