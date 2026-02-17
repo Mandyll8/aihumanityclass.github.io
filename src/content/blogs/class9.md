@@ -1,5 +1,5 @@
 +++
-title = "Class 8: Extractability"
+title = "Class 9: Extractability"
 author = "Kate McCray, Lara Mahajan, Shreeja Tangutur, Mandy Le, Lily Egenrieder"
 date = "2026-02-12"
 +++
